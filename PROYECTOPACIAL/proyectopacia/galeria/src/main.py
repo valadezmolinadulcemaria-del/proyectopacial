@@ -108,7 +108,7 @@ def main(page: ft.Page):
         page.update()
 
     def siguiente_click(e):
-        indice_actua[0]=(indice_actua[0]+1%len(personajes))
+        indice_actua[0]=(indice_actua[0]+1)%len(personajes)
         montrar_personaje()
     boton_siguiente.on_click=siguiente_click
    
