@@ -9,7 +9,7 @@ def main(page: ft.Page):
         {
             "titulo": "Katsuki Bakugo (爆豪 勝己)",
             "autor": "Kohei Horikoshi",
-            "edad": 16-17,
+            "edad": 17,
             "descripcion": "Orgulloso, explosivo y decidido, estudiante de héroes con gran talento.",
             "imagen": "https://raw.githubusercontent.com/valadezmolinadulcemaria-del/proyectopacial/refs/heads/main/bakugo_katsuk.png"
         },
@@ -23,7 +23,7 @@ def main(page: ft.Page):
         {
             "titulo": "Beryl",
             "autor": "Luma (artista independiente)",
-            "edad": 19-20,
+            "edad": 20,
             "descripcion": "Guerrero fuerte, de cabello rojo, con aire melancólico",
             "imagen": "https://raw.githubusercontent.com/valadezmolinadulcemaria-del/proyectopacial/refs/heads/main/beryl.png"
         },
@@ -37,7 +37,7 @@ def main(page: ft.Page):
         {
             "titulo": "Hinata Hyuga",
             "autor": "Masashi Kishimoto",
-            "edad": 16-17 ,
+            "edad": 17 ,
             "descripcion": "Ninja tímida, amable y valiente, pertenece al Clan Hyuga.",
             "imagen": "https://raw.githubusercontent.com/valadezmolinadulcemaria-del/proyectopacial/refs/heads/main/hinata_hyuga.png"
         },
