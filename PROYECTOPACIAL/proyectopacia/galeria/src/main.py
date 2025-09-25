@@ -81,7 +81,7 @@ def main(page: ft.Page):
     indice_actua=[0]
    
     contenedor=ft.Container(
-       content=ft.Column[{}],
+       content=ft.Column([]),
        width=400,
        height=500,
        bgcolor=ft.Colors.BROWN_50,
